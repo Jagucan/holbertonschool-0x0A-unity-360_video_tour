@@ -70,3 +70,16 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /Assets/StreamingAssets/aa.meta
 /Assets/StreamingAssets/aa/*
+/Assets/TextMesh Pro/*
+/Assets/XR/*
+/Assets/Plugins/*
+/Assets/Imagen/*
+Packages/*
+.vscode/*
+/Assets/Material/*
+Assets/Imagen.meta
+Assets/Plugins.meta
+Assets/Material.meta
+Assets/TextMesh Pro.meta
+ProjectSettings/AudioManager.asset
+ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json
